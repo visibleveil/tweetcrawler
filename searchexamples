@@ -1,0 +1,5 @@
+#search example for term 'test' from account 'google', will pull the las 500
+#wget https://twitter.com/search?q=test%20from%3Agoogle&rpp=500
+
+#search example pulling the last 500 tweets from account 'google'
+#https://twitter.com/search?q=from%3Agoogle&rpp=500
